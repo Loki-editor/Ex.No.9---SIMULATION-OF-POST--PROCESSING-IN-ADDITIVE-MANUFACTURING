@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 14/12/24
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -47,8 +47,20 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+Support Removal Process
+![291651333-44d2f3d3-a570-400f-8498-fb304bcc3598](https://github.com/user-attachments/assets/c432d0bf-eea6-4916-80ea-8fd62f0ff9da)
+![291651568-83f2dcc9-facc-4082-a38e-3c9c07fae562](https://github.com/user-attachments/assets/9e3fa8bd-11f0-4740-aa7d-d328f0f1ae59)
+
+UV Curing of 3D printed part
+![291651796-feede389-4df3-4496-af0b-f7f9c94ceec5](https://github.com/user-attachments/assets/12fa3a64-f5f3-4b6b-b510-ff7df8326fee)
+![291651987-33427292-baf4-437a-8092-eee15556a48c](https://github.com/user-attachments/assets/d2337976-2ab5-44f0-aced-c6ad22dad614)
+
+Heat Treatment of 3D printed part
+![291652316-47fe35c5-4acb-4761-ac52-a9589f7143ec](https://github.com/user-attachments/assets/a5744a41-19e9-487d-99d3-1370f2a68919)
+![291652457-05a961b4-66a5-4780-b4e0-63b2500f5112](https://github.com/user-attachments/assets/f1407261-8ef1-4882-8e45-449aee29fed0)
+
+### Name: LOKESH S
+### Register Number: 24009455
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
